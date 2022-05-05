@@ -17,3 +17,20 @@
     width: 225px;
     margin: auto;
 }
+
+#restartBtn{
+    /* padding-left: 50%;
+    text-align: center; */
+    /* padding-top: 10px; */
+    background-color: lightcyan;
+    color: red;
+    padding: 10px;
+    font-size: large;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+
+#restartBtn:hover{
+    color: rebeccapurple;
+    
+}
